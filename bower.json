@@ -1,0 +1,23 @@
+{
+  "name": "intern-test-deps-map",
+  "version": "0.0.0",
+  "authors": [
+    "Nick Nisi <nick@nisi.org>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "dijit": "1.8.9",
+    "dojo": "1.8.9"
+  },
+  "resolutions": {
+    "dijit": "1.8.9",
+    "dojo": "1.8.9"
+  }
+}
